@@ -1,2 +1,2 @@
 # Amazon-Clone
-My first HTML/CSS clone
+My first clone using HTML & CSS.
